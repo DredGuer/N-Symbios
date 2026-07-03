@@ -23,3 +23,20 @@ ENV/
 # Fichiers système macOS
 .DS_Store
 Thumb.db
+
+# === Archives et Dossiers obsolètes ===
+old_version/
+skills/
+
+# === Scripts de Test ===
+test_vision_solo.py
+
+# === Anciennes versions du code ===
+symbios.py
+symbios_v*.py
+symbios_V*.py
+
+# === Anciennes documentations (Optionnel) ===
+graphique_readme.md
+skills_readme.md
+# readme.md (Je commente celui-ci car tu as besoin d'un README pour GitHub !)
