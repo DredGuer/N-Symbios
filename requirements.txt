@@ -1,0 +1,7 @@
+ollama
+lancedb
+rank-bm25
+python-dotenv
+psutil
+PyMuPDF
+pytest

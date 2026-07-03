@@ -1,0 +1,25 @@
+# === N'symbios : Fichiers Sensibles (NE PAS TOUCHER) ===
+# Contient tes clés API privées
+.env
+
+# === Bases de Données Locales (NE PAS POUSSER) ===
+# Tes 17 000 fragments personnels et sémantiques sont ici
+base_memoire_locale/
+symbios_meta.db
+
+# === Cache Python ===
+# Fichiers de compilation temporaires
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Environnement Virtuel ===
+# Ne pas pousser le dossier .venv, l'utilisateur le recréera
+.venv/
+venv/
+ENV/
+
+# === OS spécifiques ===
+# Fichiers système macOS
+.DS_Store
+Thumb.db
