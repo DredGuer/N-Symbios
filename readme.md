@@ -169,7 +169,7 @@ date_modification	FLOAT	Timestamp de modification (mtime) arrondi à 2 décimale
 
 Toute la configuration structurelle se gère dynamiquement dans config.py :
 Python
-DOSSIER_CIBLE = "/Users/dredguer/Documents/1. Dossier personnel important/1. Adrien/10. Paramettrage IA" 
+DOSSIER_CIBLE = "..." 
 TABLE_NAME = "fichiers_v8"
 EMBEDDING_MODEL = "nomic-embed-text-v2-moe:latest"
 DIMENSION_MATRYOSHKA = 256
@@ -192,6 +192,6 @@ Résolution : La sécurité active de la Guillotine à 800 caractères dans chun
 ---
 
  ## 14. Licence et Droits
- 
+
 Ce projet est protégé sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0).
 Toute modification, dérivation ou redistribution de ce code est autorisée, à condition de fournir une attribution claire et visible au créateur original de l'architecture logicielle : Adrien Nault (DredGuer).
